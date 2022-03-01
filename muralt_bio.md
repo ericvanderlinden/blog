@@ -1,9 +1,9 @@
 Abraham Rudolf de (von) Muralt (Bern, Zwitserland 25 Mei 1783, Utrecht 27 december 1859) was een Zwitsers militair eerst in dienst van Groot Britannië en daarna het Koningrijk der Nederlanden. In 1840 werd hij in de Nederlandse adel werd opgenomen. 
 
 ==Leven en werk==  
-Geboren als zoon van Bernhard Ludwig von Muralt een officier in Hollandse dienst, in een vooraanstaande familie van militairen en bestuurders. In 1801 werd van Muralt officier in het Zwitserse Regiment Watteville (Wattenwyl) opgericht door Groot Britannië onder gezag van Frédéric de Watteville en later diens neef Louis de Watteville. Hij volgde daarin zijn broer Bernhard Karl van Muralt (1778 - 1802).
-De "foreign regiments" werden rond 1800 door de Britten opgericht om de oorlogen tegen Napoleon te voeren. Als Engels officier vocht van Muralt o.a. in Egypte, Napels, Spanje, Italie en Noord Afrika. 
-In 1806 werd van Muralt gepromoveerd naar het Froberg regiment wat na de muiterij van het Froberg regiment op Malta in 1807 werd opgeheven. Van Muralt werd overgeplaatst naar de Chasseurs Britanniques (Britse jagers). Met dit regiment vocht van Muralt onder Murat in Calabria en in 1813 onder Wellington in de slag van de Nivelle (Zuid Frankrijk), onderdeel van de "oorlog van het schiereiland" (Spanje, Portugal.)  
+Geboren als zoon van Bernhard Ludwig von Muralt een officier in Hollandse dienst, in een vooraanstaande Zwitserse familie van militairen en bestuurders.  In 1801 werd de Muralt officier in het Zwitserse Regiment Watteville (Wattenwyl) opgericht door Groot Britannië onder gezag van Frédéric de Watteville en later diens neef Louis de Watteville. Hij volgde daarin zijn broer Bernhard Karl de Muralt (1778 - 1802).  
+De "foreign regiments" werden rond 1800 door de Britten opgericht om de oorlogen tegen Napoleon te voeren. Als Brits officier vocht de Muralt o.a. in Egypte, Napels, Spanje, Italie en Noord Afrika. 
+In 1806 werd de Muralt gepromoveerd naar het Froberg regiment, wat na de muiterij van het Froberg regiment op Malta in 1807 werd opgeheven. De Muralt werd overgeplaatst naar de Chasseurs Britanniques (Britse jagers). Met dit regiment vocht de Muralt onder Murat in Calabria en in 1813 onder Wellington in de slag van de Nivelle (Zuid Frankrijk), onderdeel van de "oorlog van het schiereiland" (Spanje, Portugal.)  
 Toen Napoleon in april 1814 de akte van abdicatie tekende en naar Elba vertrok werd de oorlog door de Britten als afgesloten beschouwd en werden regimenten als de Chasseurs Britanniques opgeheven. De niet Britse officieren werden op non-actief gesteld (non-pay). In mei 1814 gaat de Muralt voor het eerst sinds veertien jaar terug naar Bern.
 
 Na het gedwongen pensioen in oktober 1814 sluit de Muralt zich op 15 november aan bij het Zwitserse regiment van Kirchberger (vanaf 1815 Jenner) in Nederlandse dienst. Dit regiment was in 1814 na de capitulatie van Napoleon in Bern ontstaan. Tijdens de veldtocht van 1815 naar Waterloo diende het regiment als bezettingsmacht van Maastricht. Verder verbleef het regiment als garnizoen in Den Bosch en later nog in Breda en Antwerpen. 
@@ -11,11 +11,15 @@ In 1829 werden de 4 Zwitserse regimenten in Nederland ontslagen, de meeste leden
 
 De Muralt verblijft tijdens of aan het begin van de Belgische opstand in Breda. Hij wordt in 1832 onderscheiden met het metalen kruis, een onderscheiding voor hen die aan de Tiendaagse Veldtocht hadden deelgenomen en in het algemeen aan "allen die in het leger of de Koninklijke Marine aan de krijgsverrichtingen in de jaren 1830 en 1831 hebben deelgenomen".
 
-Tot zijn pensioen in 1841 vervult de Muralt de functie van commandant (plaatselijk en provinciaal) in Groningen, Utrecht en ten slotte Brabant. In 1835 is hij commandant van het algemeen depot van de landmacht.
+Tot zijn pensioen in 1841 vervult de Muralt de functie van commandant (plaatselijk en provinciaal) in Groningen, Utrecht en ten slotte Brabant. In 1835 is hij commandant van het algemeen depot van de landmacht. Hij bereikt de rang van Generaal Majoor.
 
-De Muralt trouwt in 1815 met Agatha Sophia Gerardina van Hoey die in 1838 na het overlijden van haar vader de de titel Vrouwe van Vlijmen erft. De familie de Muralt (van Vlijmen) wordt bij koninklijk besluit van 12 november 1840 No 92 opgenomen in de Nederlandse adel. 
+De Muralt trouwt in 1815 met Agatha Sophia Gerardina van Hoey die in 1838 na het overlijden van haar vader de titel Vrouwe van Vlijmen erft. De familie de Muralt (van Vlijmen) wordt bij koninklijk besluit van 12 november 1840 No 92 opgenomen in de Nederlandse adel. 
 
 
+
+NaHuys (M. J. J. Graaf).  Korte schets van het militaire leven van den 
+generaal-majoor Jonkhr A. R. de Muralt medegedeeld in het jaarboek het «  Metalen kruis. »  I br. in-12 (24 p.) s. 1. 1860. (Don 
+de l'auteur.) 
 
 
 vader
