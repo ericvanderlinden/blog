@@ -16,6 +16,16 @@ Tot zijn pensioen in 1841 vervult de Muralt de functie van commandant (plaatseli
 De Muralt trouwt in 1815 met Agatha Sophia Gerardina van Hoey die in 1838 na het overlijden van haar vader de titel Vrouwe van Vlijmen erft. De familie de Muralt (van Vlijmen) wordt bij koninklijk besluit van 12 november 1840 No 92 opgenomen in de Nederlandse adel. 
 
 
+Nivelle_(rivier)
+Spaanse_Onafhankelijkheidsoorlog
+Napoleon_Bonaparte
+Koninkrijk_Napels
+
+http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490
+Gustave de Montjoie
+
+<ref>{{cite news|last1=Dandria|first1=David|title=The 1807 Froberg regiment mutiny at Fort Ricasoli|url=http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|work=[[Times of Malta]]|date=1 February 2015|archive-url=https://web.archive.org/web/20150314170155/http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|archive-date=14 March 2015}}</ref>
+
 
 NaHuys (M. J. J. Graaf).  Korte schets van het militaire leven van den 
 generaal-majoor Jonkhr A. R. de Muralt medegedeeld in het jaarboek het «  Metalen kruis. »  I br. in-12 (24 p.) s. 1. 1860. (Don 
@@ -72,16 +82,15 @@ Stamboek stamboek officieren
 Aanstellings brief:
 https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/213/file/NL-HaNA_2.13.04_213_0797
 
-Stamboek stamboek officieren
-https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/256/file/NL-HaNA_2.13.04_256_0068
-eerder
+stamboek officier 
+Toegang
+2.13.04 Inventaris van de dienststaten en stamboeken der Officieren van de Koninklijke Landmacht en van de koloniale troepen in Nederland, (1715) 1814-1940 (1945)
+Inventarisnummer
+261 deel 1
 https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/261/file/NL-HaNA_2.13.04_261_0107
-eerder
-https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/336/file/NL-HaNA_2.13.04_336_0033
-eerder 
-https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/252/file/NL-HaNA_2.13.04_252_0106
 
-
+metalen kruis
+Nummer toegang: 2.13.13.03, inventarisnummer: 188, folionummer: 1
 
 Arnhemsche courant
 19-02-1831
@@ -113,3 +122,12 @@ Utrechtsche provinciale en stads-courant : algemeen advertentieblad
 https://resolver.kb.nl/resolve?urn=ddd:010769988:mpeg21:a0020
 overlijden te utrecht.
 
+
+Stamboek stamboek officieren
+https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/256/file/NL-HaNA_2.13.04_256_0068
+eerder
+https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/261/file/NL-HaNA_2.13.04_261_0107
+eerder
+https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/336/file/NL-HaNA_2.13.04_336_0033
+eerder 
+https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/252/file/NL-HaNA_2.13.04_252_0106
