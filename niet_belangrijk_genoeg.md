@@ -21,8 +21,10 @@ De opmerking wees de redactie op het bestaan van een korte beschrijving van zijn
 Deze pagina leidt via een aantal stappen naar de wikidata pagina <https://www.wikidata.org/wiki/Q110573185> waar je links kunt vinden naar aantal micro-biografieën. Daarnaast is er de "Historisches Familienlexikon der Schweiz" waar je de Muralt en zijn volledige familie kunt vinden maar ook een foto, waarschijnlijk een carte de visite gemaakt door de Zwitserse fotograaf Ch. Coriddo.
 
 Als je de verschillende micro-biografieën naast elkaar zet dan zijn er twee gebeurtenissen in het leven van de Muralt,  
-1. 1801, de Muralt wordt kadet en later officier in een Zwitsers regiment onder Britse vlag. Soms worden details toegevoegd zoals de naam van het regiment, Wattenwyl.
+1. 1801, de Muralt wordt kadet en later officier in een Zwitsers regiment onder Britse vlag. Soms worden details toegevoegd zoals de naam van het regiment, Watteville (soms Wattenwyl).
 2. 1814, de Muralt wordt officier in het Zwitserse regiment Jenner. Soms worden details toegevoegd met name de functies van de Muralt die te maken hebben met provinciaal of plaaselijk commandant.
 
-Een belangrijk ggeven dat uit de informatie komt is de relatie met de familie de Muralt uit Bern en zijn geboorte datum en plaats. Om het te kijken of ik het lemma van wat meer context kan voorzien doe ik een scan via Google en bekende bronnen als Delpher op zijn naam en het regiment Wattenwyl.
+Een belangrijk gegeven dat uit de informatie komt is zijn geboorte datum en plaats en gegevens over zijn familie de Muralt uit Bern. Om het te kijken of ik het lemma van wat meer context kan voorzien doe ik een scan via Google en bekende bronnen als Delpher op zijn naam en het regiment Watteville.
+
+Het regiment Watteville werd in 1801 opgericht door Frederique de Watteville (1753 - 1838) met het doel voor de Britten te vechten in de Coalitieoorlogen (Franse oorlogen). De Muralt is er vanaf de oprichting bij net als zijn broer en is onder andere actief in Egypte, waar zijn broer sneuvelt. Frederique wordt in 1812 generaal majoor en draagt het regiment over aan zijn neef, Louis de Watteville (1776 - 1839). Wat dit regiment bijzonder maakt is dat het in 1813, na een verblijf van 2 jaar in Cadiz opdracht krijgt naar Kingston in Canada te vertrekken. Zo raken ze betrokken bij de "War of 1812" (18 June 1812 – 17 February 1815), een oorlog tussen de USA en de Britten en hun diverse bondgenoten. Het regiment wordt in 1815 na de oorlog opgeheven en de soldaten krijgen een stuk land in Canada.
 
