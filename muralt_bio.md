@@ -43,6 +43,7 @@ regiment book
 https://discovery.nationalarchives.gov.uk/details/r/C4397429
 45 Rodolphe de Muralt. 7/9 augustus 1783  ensign 21 sept 1802.
 (image 16/17)
+Record book from image 71
 
 boek
 https://books.google.nl/books?id=zhE7AAAAcAAJ&pg=PA329
@@ -50,20 +51,18 @@ https://books.google.nl/books?id=zhE7AAAAcAAJ&pg=PA329
 WO 12
 https://discovery.nationalarchives.gov.uk/details/r/C2471573
 
-Publication Date 25 April 1807
-promoted in froberg's Regiment
-https://www.thegazette.co.uk/London/issue/16023/page/532/data.pdf
-
 promoted lieutenant 
 The London Gazette
 Publication date:16 September 1806
+Issue:15958 Page:1235
 https://www.thegazette.co.uk/London/issue/15958/page/1235
 
-The London Gazette
-Publication date:16 September 1806
-https://www.thegazette.co.uk/London/issue/15958/page/1235
+promoted in froberg's Regiment
+Publication Date 25 April 1807
+Issue:16023 Page:532
+https://www.thegazette.co.uk/London/issue/16023/page/532/
+
 promoted captain.
-
 The London Gazette
 Publication date:13 June 1807
 https://www.thegazette.co.uk/London/issue/16037/page/797
