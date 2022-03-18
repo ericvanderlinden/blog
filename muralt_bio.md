@@ -122,6 +122,8 @@ Utrechtsche provinciale en stads-courant : algemeen advertentieblad
 https://resolver.kb.nl/resolve?urn=ddd:010769988:mpeg21:a0020
 overlijden te utrecht.
 
+Watteville regiment in National archive.
+https://books.google.nl/books?id=hvEMAQAAIAAJ&pg=PA459&lpg=PA459#v=onepage&q&f=false
 
 Stamboek stamboek officieren
 https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/256/file/NL-HaNA_2.13.04_256_0068
@@ -131,3 +133,17 @@ eerder
 https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/336/file/NL-HaNA_2.13.04_336_0033
 eerder 
 https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/252/file/NL-HaNA_2.13.04_252_0106
+
+THE AUXILIARIES; FOREIGN AND MISCELLANEOUS REGIMENTS IN THE BRITISH ARMY 1802 - 1817
+R. L. Yaple
+Journal of the Society for Army Historical Research
+Journal of the Society for Army Historical Research
+Vol. 50, No. 201 (SPRING 1972), pp. 10-28 (19 pages)
+Published by: Society for Army Historical Research
+
+
+
+
+
+
+
