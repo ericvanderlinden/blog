@@ -141,8 +141,8 @@ Vol. 50, No. 201 (SPRING 1972), pp. 10-28 (19 pages)
 Published by: Society for Army Historical Research
 
 
+<ref>See: [[https://discovery.nationalarchives.gov.uk/details/r/C4397429 Description book Watteville Regiment regel 45, pagina 16 en 17 in PDF]] De War Office </ref>
 
-
-
+<ref>Froberg regiment "Disbanded" de Muralt als Kapitein naar de Chasseurs Britanniques (Britse jagers) [https://www.thegazette.co.uk/London/issue/16037/page/797 the Gazette London Issue van 13 June 1807]</ref>
 
 
