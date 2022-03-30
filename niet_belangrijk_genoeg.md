@@ -7,7 +7,7 @@ mainfont: Georgia, serif
 fontsize: 18px
 header-includes: |-
   <style>
-
+    .larger {font-size:130%}
   </style>
 ---
 
@@ -15,7 +15,7 @@ header-includes: |-
 
 ## Het militaire leven van A. R. de Muralt wordt in twee gebeurtenissen samengevat maar dat leidt tot verkeerde conclusies over zijn levensloop.
 
-Dat we nu de naam van A. R. de Muralt noemen komt omdat het biografisch woordenboek der Nederlanden 2 zinnen aan hem besteed en iemand uit het publiek daar een opmerking over toestuurde.  
+Dat we nu de naam van A. R. de [Muralt]{.larger} noemen komt omdat het biografisch woordenboek der Nederlanden 2 zinnen aan hem besteed en iemand uit het publiek daar een opmerking over toestuurde.  
 G.D.J. Schotel ^[Redacteur BWdN] (vermoedelijk) schreef: "MURALT (A.R. de), klom op tot den rang van generaalmajoor en werd als zoodanig gepensioneerd. Hij overleed te Utrecht 27 December 1859."  
 De opmerking wees de redactie op het bestaan van een korte beschrijving van zijn leven in een genealogische site: <https://www.geni.com/people/Abraham-von-Muralt/6000000025782801272>.  
 Deze pagina leidt via een aantal stappen naar de wikidata pagina <https://www.wikidata.org/wiki/Q110573185> waar je links kunt vinden naar aantal micro-biografieën. Daarnaast is er de "Historisches Familienlexikon der Schweiz" waar je de Muralt en zijn volledige familie kunt vinden maar ook een foto, waarschijnlijk een carte de visite gemaakt door de Zwitserse fotograaf Ch. Coriddo.
