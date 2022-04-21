@@ -24,7 +24,11 @@ Koninkrijk_Napels
 http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490
 Gustave de Montjoie
 
-<ref>{{cite news|last1=Dandria|first1=David|title=The 1807 Froberg regiment mutiny at Fort Ricasoli|url=http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|work=[[Times of Malta]]|date=1 February 2015|archive-url=https://web.archive.org/web/20150314170155/http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|archive-date=14 March 2015}}</ref>
+<ref>{{cite news|last1=Dandria|first1=David|title=The 1807 Froberg regiment mutiny at Fort Ricasoli|url=http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|work=[[Times of Malta]]|date=1 February 2015|archive-url=https://web.archive.org/web/20150314170155/http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490|archive-date=14 March 2015}}</ref
+
+
+"The 1807 Froberg regiment mutiny at Fort Ricasoli" bij David Dandria in the Times of Malta van 1 February 2015.
+<http://www.timesofmalta.com/articles/view/20150201/life-features/The-1807-Froberg-regiment-mutiny-at-Fort-Ricasoli.554490>
 
 
 NaHuys (M. J. J. Graaf).  Korte schets van het militaire leven van den 
