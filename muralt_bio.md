@@ -149,4 +149,5 @@ Published by: Society for Army Historical Research
 
 <ref>Froberg regiment "Disbanded" de Muralt als Kapitein naar de Chasseurs Britanniques (Britse jagers) [https://www.thegazette.co.uk/London/issue/16037/page/797 the Gazette London Issue van 13 June 1807]</ref>
 
-
+stamboek heeren generaals.
+https://www.nationaalarchief.nl/onderzoeken/archief/2.13.04/invnr/702/file/NL-HaNA_2.13.04_702_0122?query=
